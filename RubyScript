@@ -1,4 +1,3 @@
-# Jenkins_Ruby_Script
 pipeline {
     agent any
     environment {
